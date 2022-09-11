@@ -21,7 +21,7 @@ nav a {
     font-size: 1rem;
     font-family: arial;
     font-weight: bold;
-    letter-spacing: 2px;
+    letter-spacing: 2.3px;
     color: rgb(255, 255, 255);
 }
  header {
@@ -35,16 +35,16 @@ nav a {
     border-radius: 0 0 0% 0% / 30% ;
 }
 h1 {
-    margin-top: 30px;
-    font-size: 600%;
+    margin-top: 150px;
+    font-size: 800%;
     text-align: center;
     color: rgb(255, 255, 255);
     text-shadow: 4px 5px #4bcccc;
     /* font-family: 'Bebas Neue', cursive; */
 }
 h2 {
-    margin-top: 30px;
-    font-size: 200%;
+    margin-top: 50px;
+    font-size: 250%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
@@ -52,7 +52,7 @@ h2 {
 }
 h3 {
     margin-top: 10px;
-    font-size: 115%;
+    font-size: 120%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
@@ -60,11 +60,11 @@ h3 {
 }
 h4 {
     margin-top: 10px;
-    font-size: 115%;
+    font-size: 120%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
-    margin-bottom: 50px;
+    margin-bottom: 70px;
 }
 .box {
     position: absolute;
