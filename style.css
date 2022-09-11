@@ -42,26 +42,28 @@ h1 {
     text-shadow: 4px 5px #4bcccc;
 }
 h2 {
-    margin-top: 60px;
+    margin-top: 50px;
     font-size: 250%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
 }
 h3 {
-    margin-top: 30px;
+    margin-top: 15px;
     font-size: 120%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
+    margin-bottom: 10px;
+}
 h4 {
-    margin-top: 20px;
+    margin-top: 10px;
     font-size: 120%;
     color: rgb(255, 255, 255);
     text-align: center;
     text-shadow: 1px 1px #000000;
-    margin-bottom: 60px;
+    margin-bottom: 70px;
 }
 .box {
     position: absolute;
