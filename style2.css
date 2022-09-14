@@ -12,7 +12,6 @@ nav {
     align-items: center;
     display: flex;
     padding: 20px 60px;
-    
 }
 nav a {
     text-decoration: none;
@@ -44,12 +43,10 @@ p {
 .name {
     font-size: 50px;
     text-align: center;
-
 }
 .name1 {
     font-size: 30px;
-    text-align: center;
-    
+    text-align: center; 
 }
 
 .box {
