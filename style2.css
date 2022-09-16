@@ -99,6 +99,7 @@ p {
     height: 750;
     margin-left: 1000;
     margin-right: 500;
+    margin: center;
     margin-top: -300px;
     display: table-cell;
     border-radius: 15px;
