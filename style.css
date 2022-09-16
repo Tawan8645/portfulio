@@ -68,8 +68,10 @@ h4 {
 .box {
     position: absolute;
     top: 500px;
-    width: 500;
-    height: 650;
+    max-width: auto;
+    max-height: auto;
+/*     max-width: 500;
+    max-height: 650; */
     margin-left: 120;
     margin-right: auto;
     margin-top: 50px;
