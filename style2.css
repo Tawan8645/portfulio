@@ -93,6 +93,16 @@ p {
     max-width: auto;
     max-height: auto;
 }
+.sectionnamecix{
+    margin-top: -400px;
+    font-size: 45px;
+    margin-left: 950px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000000;
+    font-family: 'Bebas Neue', cursive;
+    max-width: auto;
+    max-height: auto;
+}
 .name {
     margin-top: 65px;
     font-size: 30px;
@@ -150,6 +160,16 @@ p {
     max-width: auto;
     max-height: auto;
     margin-bottom: -300px;
+}
+.contentcix {
+    margin-top: 60px;
+    font-size: 30px;
+    margin-left: 1000px;
+    color: rgb(255, 255, 255);
+    text-shadow: 2px 2px #000000;
+    font-family: 'Bebas Neue', cursive;
+    max-width: auto;
+    max-height: auto;
 }
 .box {
     max-width: 600px;
