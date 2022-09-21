@@ -174,8 +174,8 @@ p {
 .box {
     max-width: 600px;
     max-height: 750px;
-    margin-left: 900px;
-    margin-right: 500px;
+/*     margin-left: 900px;
+    margin-right: 500px; */
     margin-top: -390px;
     display: table-cell;
     border-radius: 15px;
