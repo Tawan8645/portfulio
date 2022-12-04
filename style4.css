@@ -40,8 +40,8 @@ h1 {
     font-size: 1000%;
     text-align: center;
     color: rgb(255, 255, 255);
-    text-shadow: rgb(0, 0, 0) 0.2em 0.2em 0.2em;
-    margin-bottom: 600px;
+    text-shadow: rgb(0, 0, 0) 0.1em 0.1em 0.2em;
+    margin-bottom: 500px;
 }
 h2 {
     margin-top: 50px;
@@ -102,6 +102,12 @@ div {
     height: 700px;
 }
 .box2 {
+    
+    margin-left: 200px;
+    width: 600px;
+    height: 700px;
+}
+.box3 {
     
     margin-left: 200px;
     width: 600px;
