@@ -1,0 +1,109 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: #7bffff;
+    max-width: auto;
+    max-height: auto;
+}
+nav {
+    background-color: #00000098;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    padding: 20px 60px;
+}
+nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 1rem;
+    font-family: arial;
+    font-weight: bold;
+    letter-spacing: 2.3px;
+    color: rgb(255, 255, 255);
+}
+header {
+    
+    background: url(https://cdn.discordapp.com/attachments/868553937660313681/1048610990574542969/IMG_6781.JPG);
+    width: 100%;
+    max-height: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+    border-radius: 0 0 0% 0% / 30% ;
+}
+h1 {
+    margin-top: 400px;
+    font-size: 1000%;
+    text-align: center;
+    color: rgb(255, 255, 255);
+    text-shadow: rgb(0, 0, 0) 0.2em 0.2em 0.2em;
+    margin-bottom: 600px;
+}
+h2 {
+    margin-top: 50px;
+    font-size: 250%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 20px;
+}
+h3 {
+    margin-top: 45px;
+    font-size: 135%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 10px;
+}
+h4 {
+    margin-top: 25px;
+    font-size: 135%;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    text-shadow: 2px 2px #000000;
+    margin-bottom: 350px;
+}
+.Font1 {
+    font-family: 'Chulabhorn Likit Display', sans-serif;
+}
+div {
+    padding-bottom: 300px;
+}
+.Tawan {
+    margin-top: 30px;
+    font-size: 30px;
+    margin-left: 200px;
+    margin-right: 200px;
+    font-family: 'Chulabhorn Likit Display', sans-serif;
+}
+.Tawan2 {
+    margin-top: 200px;
+    font-size: 50px;
+    margin-left: 200px;
+    font-family: 'Chulabhorn Likit Display', sans-serif;
+
+
+}
+.Tawan3 {
+    margin-top: -100px;
+    font-size: 50px;
+    margin-left: 200px;
+    font-family: 'Chulabhorn Likit Display', sans-serif;
+
+
+}
+.box1 {
+    margin-left: 200px;
+    width: 600px;
+    height: 700px;
+}
+.box2 {
+    
+    margin-left: 200px;
+    width: 600px;
+    height: 700px;
+}
